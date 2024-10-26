@@ -1,2 +1,2 @@
-# half-life-2-com
-This is still currently being developed.
+# half-life-2.com
+This website/webpage is still being developed.
